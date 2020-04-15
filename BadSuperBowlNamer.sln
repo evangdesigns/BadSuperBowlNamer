@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadSuperBowlNamer", "BadSuperBowlNamer\BadSuperBowlNamer.csproj", "{D2C1A311-5BE1-4985-BAB2-3883DB35BF38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadSuperBowlNamer.Tests", "BadSuperBowlNamer.Tests\BadSuperBowlNamer.Tests.csproj", "{048FCC1B-5E0F-4F9A-A2D4-345C6B28D4B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C1A311-5BE1-4985-BAB2-3883DB35BF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C1A311-5BE1-4985-BAB2-3883DB35BF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C1A311-5BE1-4985-BAB2-3883DB35BF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C1A311-5BE1-4985-BAB2-3883DB35BF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{048FCC1B-5E0F-4F9A-A2D4-345C6B28D4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048FCC1B-5E0F-4F9A-A2D4-345C6B28D4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048FCC1B-5E0F-4F9A-A2D4-345C6B28D4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048FCC1B-5E0F-4F9A-A2D4-345C6B28D4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
